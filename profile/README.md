@@ -1,6 +1,7 @@
 <div align="center">
 
-![배너](여기에_배너_이미지_URL)
+<img width="1916" height="821" alt="ChatGPT Image May 16, 2026, 06_28_26 PM" src="https://github.com/user-attachments/assets/254372e3-03d4-462f-ad01-bdb8ade58e4e" />
+
 
 <br/>
 
@@ -22,7 +23,7 @@
 
 <br/>
 
-![메인 이미지](여기에_메인_게임_이미지_URL)
+<img width="3456" height="1909" alt="image" src="https://github.com/user-attachments/assets/c8916e58-f3af-4b4c-9466-5d51749715b3" />
 
 ---
 
