@@ -46,7 +46,9 @@ https://github.com/user-attachments/assets/574711c8-463c-4dff-913b-8e14179d8c4b
 
 처음이라도 걱정 없어요. 리듬 읽는 법부터 키 배치까지 차근차근 알려줘요.
 
-![튜토리얼](여기에_튜토리얼_이미지_URL)
+<img width="1728" height="1894" alt="image" src="https://github.com/user-attachments/assets/132e1689-6b55-4e82-bea6-1837df95e233" />
+
+https://github.com/user-attachments/assets/8fa06f66-9e78-47d5-80ef-9b16a606a43b
 
 <br/>
 
@@ -54,7 +56,8 @@ https://github.com/user-attachments/assets/574711c8-463c-4dff-913b-8e14179d8c4b
 
 원하는 단어를 골라 반복 연습할 수 있어요. 본 게임 전 워밍업으로 딱이에요.
 
-![연습모드](여기에_연습모드_이미지_URL)
+<img width="1728" height="1904" alt="image" src="https://github.com/user-attachments/assets/545e905a-f3a0-427f-953f-d7e33b501972" />
+
 
 <br/>
 
@@ -63,7 +66,7 @@ https://github.com/user-attachments/assets/574711c8-463c-4dff-913b-8e14179d8c4b
 닉네임으로 로그인하면 내 최고 기록이 서버에 저장돼요.  
 점수, 클리어 스테이지, 콤보로 다른 플레이어와 경쟁해요.
 
-![랭킹](여기에_랭킹_이미지_URL)
+<img width="1724" height="1905" alt="image" src="https://github.com/user-attachments/assets/fb7ddd70-21c9-42e9-b607-fd54dd4be810" />
 
 ---
 
