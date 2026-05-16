@@ -36,7 +36,11 @@
 한국 음절 단어들이 쏟아지는 15개 스테이지.  
 스테이지가 올라갈수록 빨라지고 복잡해져요. 절대 멈추지 않아요.
 
-![본게임](여기에_본게임_이미지_URL)
+<img width="3012" height="1681" alt="image" src="https://github.com/user-attachments/assets/466fbaca-854b-457f-9254-032b1347c23c" />
+
+<img width="3003" height="1657" alt="image" src="https://github.com/user-attachments/assets/a8535b19-daf7-4c52-b3dc-aea581d7b395" />
+
+https://github.com/user-attachments/assets/574711c8-463c-4dff-913b-8e14179d8c4b
 
 <br/>
 
