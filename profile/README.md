@@ -128,7 +128,7 @@ main push
 
 <div align="center">
 
-| <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-45-49" src="https://github.com/user-attachments/assets/4b9d30dc-5c04-4fb0-abd5-9ae814ec4af7" width="80" style="border-radius:50%"/> | <img src="여기에_프로필사진" width="80" style="border-radius:50%"/> | <img src="여기에_프로필사진" width="80" style="border-radius:50%"/> | <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-45-56" src="https://github.com/user-attachments/assets/c12043a5-c906-4533-a535-85e860094465" width="80" style="border-radius:50%"/> | <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-51-41" src="https://github.com/user-attachments/assets/569023bc-3e0c-4782-8f2d-44da14525aea" width="80" style="border-radius:50%"/> |
+| <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-45-49" src="https://github.com/user-attachments/assets/4b9d30dc-5c04-4fb0-abd5-9ae814ec4af7" width="80" style="border-radius:50%"/> | <img src="여기에_프로필사진" width="80" style="border-radius:50%"/> | <img width="3528" height="3528" alt="image" src="https://github.com/user-attachments/assets/8e3b116b-84ad-4f9a-a0a5-7049c5b1dbdc" width="80" style="border-radius:50%"/> | <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-45-56" src="https://github.com/user-attachments/assets/c12043a5-c906-4533-a535-85e860094465" width="80" style="border-radius:50%"/> | <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-51-41" src="https://github.com/user-attachments/assets/569023bc-3e0c-4782-8f2d-44da14525aea" width="80" style="border-radius:50%"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | **이하경** | **배나현** | **이건희** | **황시선** | **서새찬** |
 | PM | DESIGN | FRONTEND | BACKEND | LEAD |
