@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="1916" height="821" alt="ChatGPT Image May 16, 2026, 06_28_26 PM" src="https://github.com/user-attachments/assets/254372e3-03d4-462f-ad01-bdb8ade58e4e" />
-
+<img width="1906" height="660" alt="image" src="https://github.com/user-attachments/assets/cbe99c3b-e8e3-4817-8605-08890dfb4631" />
 
 <br/>
 
-**한국 음절로 즐기는 생존형 리듬게임**
+## 한국 음절로 즐기는 생존형 리듬게임
 
 [![지금 플레이하기](https://img.shields.io/badge/▶%20지금%20플레이하기-00BFFF?style=for-the-badge)](http://suh-project.synology.me:3010)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PickerPicker/PickerPicker)
@@ -128,7 +127,7 @@ main push
 
 <div align="center">
 
-| <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-45-49" src="https://github.com/user-attachments/assets/4b9d30dc-5c04-4fb0-abd5-9ae814ec4af7" width="80" style="border-radius:50%"/> | <img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/3d8ec1ab-295d-49e0-8b72-5140e5796fc1" width="80" style="border-radius:50%"/> | <img width="3528" height="3528" alt="image" src="https://github.com/user-attachments/assets/8e3b116b-84ad-4f9a-a0a5-7049c5b1dbdc" width="80" style="border-radius:50%"/> | <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-45-56" src="https://github.com/user-attachments/assets/c12043a5-c906-4533-a535-85e860094465" width="80" style="border-radius:50%"/> | <img width="400" height="400" alt="KakaoTalk_Photo_2026-05-16-18-51-41" src="https://github.com/user-attachments/assets/569023bc-3e0c-4782-8f2d-44da14525aea" width="80" style="border-radius:50%"/> |
+| <img src="https://github.com/user-attachments/assets/4b9d30dc-5c04-4fb0-abd5-9ae814ec4af7" width="120" height="120" style="border-radius:50%;object-fit:cover"/> | <img src="https://github.com/user-attachments/assets/3d8ec1ab-295d-49e0-8b72-5140e5796fc1" width="120" height="120" style="border-radius:50%;object-fit:cover"/> | <img src="https://github.com/user-attachments/assets/8e3b116b-84ad-4f9a-a0a5-7049c5b1dbdc" width="120" height="120" style="border-radius:50%;object-fit:cover"/> | <img src="https://github.com/user-attachments/assets/c12043a5-c906-4533-a535-85e860094465" width="120" height="120" style="border-radius:50%;object-fit:cover"/> | <img src="https://github.com/user-attachments/assets/569023bc-3e0c-4782-8f2d-44da14525aea" width="120" height="120" style="border-radius:50%;object-fit:cover"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | **이하경** | **배나현** | **이건희** | **황시선** | **서새찬** |
 | PM | DESIGN | FRONTEND | BACKEND | LEAD |
@@ -141,5 +140,3 @@ main push
 
 <!-- AUTO-VERSION-SECTION: DO NOT EDIT MANUALLY -->
 ## 최신 버전 : v0.0.68 (2026-05-16)
-
-[전체 버전 기록 보기](CHANGELOG.md)
