@@ -6,7 +6,7 @@
 
 ## 한국 음절로 즐기는 생존형 리듬게임
 
-[![지금 플레이하기](https://img.shields.io/badge/▶%20지금%20플레이하기-00BFFF?style=for-the-badge)](http://suh-project.synology.me:3010)
+[![지금 플레이하기](https://img.shields.io/badge/▶%20지금%20플레이하기-00BFFF?style=for-the-badge)]([http://suh-project.synology.me:3010](https://pickerpicker.suhsaechan.kr/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PickerPicker/PickerPicker)
 
 </div>
